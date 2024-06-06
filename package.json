@@ -1,0 +1,10 @@
+{
+    "name": "lucky-logo-maker",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "index.js",
+    "dependencies": {
+      "inquirer": "^9.0.0"
+    }
+  }
+  
