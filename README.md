@@ -11,7 +11,9 @@ This application requires that you install Node.js and Inquirer.
 ## Usage
 Open index.js in an integrated terminal and type in "node index" and begin answering the prompts.
 ## Walkthrough
-https://github.com/Matt-Christopherson/Lucky-Logo-Maker/assets/153093689/7706765b-21b8-4b1d-a603-a3695df8c2d7
+
+https://github.com/Matt-Christopherson/Lucky-Logo-Maker/assets/153093689/9e5727e4-fb68-44e5-92b7-d6d832849059
+
 ## Questions
 GitHub: https://github.com/matt-christopherson/
   
