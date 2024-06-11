@@ -4,11 +4,14 @@ This project generates simple logos for web development projects.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Walkthrough](#walkthrough)
 - [Questions](#questions)
 ## Installation
 This application requires that you install Node.js and Inquirer.
 ## Usage
 Open index.js in an integrated terminal and type in "node index" and begin answering the prompts.
+## Walkthrough
+https://github.com/Matt-Christopherson/Lucky-Logo-Maker/assets/153093689/7706765b-21b8-4b1d-a603-a3695df8c2d7
 ## Questions
 GitHub: https://github.com/matt-christopherson/
   
